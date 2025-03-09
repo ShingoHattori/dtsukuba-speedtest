@@ -1,0 +1,3 @@
+[submodule "speedtest"]
+	path = speedtest
+	url = git@github.com:openspeedtest/Speed-Test.git
